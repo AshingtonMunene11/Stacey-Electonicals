@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Piping",
+      "description": "Durable conduits and fittings",
+      "image": ".https://i.pinimg.com/736x/9e/d9/86/9ed9867a18d358660923b625063fc398.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Lighting",
+      "description": "Modern bulbs and fixtures",
+      "image": "https://i.pinimg.com/736x/28/87/c8/2887c88b6bda7dd54c77075bf0433430.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Wiring",
+      "description": "Reliable copper wiring",
+      "image": "https://i.pinimg.com/736x/9f/3f/4d/9f3f4d62be3ea3d929a570c6de6c26b7.jpg"
+    }
+  ]
+}
