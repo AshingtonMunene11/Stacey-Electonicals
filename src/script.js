@@ -1,4 +1,6 @@
-fetch("http://localhost:3000/products")
+const BASEURL= "https://stacey-electonicals.onrender.com/products"
+
+fetch(BASEURL)
   .then(res => res.json())
   .then(data => {
     const track = document.querySelector(".carousel-track");
