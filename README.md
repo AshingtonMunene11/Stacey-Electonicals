@@ -13,14 +13,14 @@ Welcome to **Stacy Electrical and Electronics Enterprise**'s online storefront. 
 
 ---
 
-## 📂 Project Structure
+📂 Project Structure
 stacey-electricals/ ├── index.html ├── product.json # JSON data with product listings ├── script.js # JavaScript for fetch + carousel logic ├── styles.css # Custom styling ├── img/ # Product images │ ├── piping.jpg │ ├── lighting.jpg │ └── wiring.jpg
 
-##🧩 Tech Stack
+🧩 Tech Stack
 HTML5 / CSS3
 Vanilla JavaScript
 Netlify (for hosting)
 GitHub (for version control)
 
-##👨🏾‍💻 Author
+👨🏾‍💻 Author
 Frank Ashington Munene
